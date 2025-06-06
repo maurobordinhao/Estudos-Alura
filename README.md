@@ -13,7 +13,9 @@ Resolução de conflitos de git quando ocorre a edição coletiva de código.
 1.  **Para clonar o projeto:**
     ```bash
     git clone git@github.com:maurobordinhao/Estudos-Alura.git
+    ```
     # ou via HTTPS:
+    ```bash
     # git clone [https://github.com/maurobordinhao/Estudos-Alura.git](https://github.com/maurobordinhao/Estudos-Alura.git)
     ```
 2.  **Acesse a pasta:**
