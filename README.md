@@ -7,7 +7,7 @@ Esse projeto tem a finalidade de armazenar o conteúdo sobre o estudo dos cursos
 
 - Cursos sobre o versionador git, usando o git na linha de comando por meio do terminal, estágios da edição do código local, armazenamento na área de staging, commit e a transferência para o repositório remoto.
 
-- Práticas com o uso do Github, criação de branchs, merge, pull request. Ignorando arquivos específicos que não precisam ser versionados com o arquivo .gitignore.
+- Práticas com o uso do Github, criação de branches, merge, pull request. Ignorando arquivos específicos que não precisam ser versionados com o arquivo .gitignore.
 Resolução de conflitos de git quando ocorre a edição coletiva de código.
 
 1.  **Para clonar o projeto:**
@@ -20,3 +20,5 @@ Resolução de conflitos de git quando ocorre a edição coletiva de código.
     ```bash
     cd Estudos-Alura
     ```
+
+
