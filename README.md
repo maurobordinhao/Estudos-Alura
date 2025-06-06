@@ -16,7 +16,7 @@ Resolução de conflitos de git quando ocorre a edição coletiva de código.
     ```
     # ou via HTTPS:
     ```bash
-    # git clone https://github.com/maurobordinhao/Estudos-Alura.git
+    git clone https://github.com/maurobordinhao/Estudos-Alura.git
     ```
 2.  **Acesse a pasta:**
     ```bash
